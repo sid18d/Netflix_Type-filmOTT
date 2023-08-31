@@ -1,6 +1,6 @@
-# FILMPIRE - Shubham Kadam
+# FILMPIRE - Siddharth Dixit
 
-[View Demo](https://filmpire-ssk.netlify.app/)
+[View Demo]([https://filmpire-ssk.netlify.app/](https://siddharth-dixit-movieapp.netlify.app/))
 
 ## About the Project
 
