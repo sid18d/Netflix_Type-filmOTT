@@ -1,6 +1,6 @@
 # FILMPIRE - Siddharth Dixit
 
-[View Demo]([https://filmpire-ssk.netlify.app/](https://siddharth-dixit-movieapp.netlify.app/))
+[View Demo]((https://siddharth-dixit-movieapp.netlify.app/))
 
 ## About the Project
 
